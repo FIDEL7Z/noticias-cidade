@@ -32,9 +32,13 @@ O projeto utiliza técnicas de estilização CSS para criar um layout atraente e
     git clone https://github.com/FIDEL7Z/noticias-cidade.git
     ```
 
-2. Abra o arquivo index.html no seu navegador para visualizar o site.
+2. Adicione a imagem desejada à pasta **imagens**.
+
+3. Abra o arquivo index.html no seu navegador para visualizar o site.
 
 ## Contribuições
 
 Este projeto está aberto para contribuições. Sinta-se à vontade para utilizar o código como referência ou fazer melhorias. Contribuições são sempre bem-vindas!
 
+![Exemplo de Imagem]
+![Capturar](https://github.com/FIDEL7Z/noticias-cidade/assets/103468557/ad2e898f-5b35-4f20-841d-a198fc8d3ef9)
